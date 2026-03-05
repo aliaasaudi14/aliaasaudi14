@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size:26px;"><i>Hey, I'm Aliaa Ahmed Saudi 👋</i></h1>
-  <h3 style="font-size:18px; color:#0077B5;"><i>Data Analyst & Business Intelligence Engineer</i></h3>
+  <h3 style="font-size:18px; color:#0077B5;"><i>Data Analyst & BI Developer | AI & Data Science Enthusiast | ITI Trainee</i></h3>
   <p><small><i>"Turning data into a strategic asset for smarter decisions."</i></small></p>
 
   <a href="https://linkedin.com/in/aliaa-saudi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
