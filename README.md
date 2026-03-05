@@ -1,122 +1,57 @@
-<h1 align="center">Hi 👋, I'm Aliaa Ahmed Saudi</h1>
-<h3 align="center">Data Analyst | BI Engineer | Data Science & AI Enthusiast</h3>
-
-<p align="center">
-Passionate about transforming data into insights and building intelligent solutions.
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/yourimage.png" width="150" style="border-radius:50%">
-</p>
+# *Aliaa Ahmed Saudi*
+> ### *Data Analyst & BI Engineer*
+> *“Turning data into a strategic asset for smarter decisions.”*
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 **BSc in Navigation Science and Space Technology – Beni Suef University (CGPA: 3.76/4)**  
-📊 Data Analyst & BI enthusiast with expertise in **Python, SQL, and Power BI**  
-🤖 Exploring **Data Science, Machine Learning, and Artificial Intelligence**  
-🚀 Passionate about **transforming data into insights and developing intelligent solutions**
-
----
-
-## 🧠 Technical Skills
-
-### Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
-</p>
-
-### Data & AI
-- Data Analysis  
-- Data Science  
-- Machine Learning  
-- Deep Learning  
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi,excel,jupyter" />
-</p>
-
-- Power BI  
-- Excel  
-- Jupyter Notebook  
-
-### Engineering Software
-<p>
-<img src="https://skillicons.dev/icons?i=matlab,solidworks" />
-</p>
-
-- MATLAB  
-- STK  
-- SolidWorks  
-- Proteus  
-
-### Design Tools
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop,xd,indesign" />
-</p>
-
-- Photoshop  
-- Adobe XD  
-- InDesign  
+### ✦ *About Me*
+* *🔭 **Currently:** Power BI Development Trainee at **ITI**.*
+* *💡 **Philosophy:** A data storyteller turning raw numbers into **clear business impact**.*
+* *🚀 **Passion:** Deeply interested in the future of **Artificial Intelligence** & **GenAI**.*
+* *💼 **Expertise:** Specialized in medical and pharmaceutical data analytics.*
 
 ---
 
-## 📊 Areas of Interest
-
-✔ Data Analysis  
-✔ Business Intelligence  
-✔ Data Science  
-✔ Machine Learning  
-✔ Artificial Intelligence  
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Sales Data Analysis with Python**  
-Data cleaning, exploration, and visualization using Pandas and Matplotlib.
-
-🔹 **Power BI Business Dashboard**  
-Interactive dashboards to monitor KPIs and business performance.
-
-🔹 **SQL Data Analysis Project**  
-Using SQL queries to extract insights from structured datasets.
-
-🔹 **Machine Learning Prediction Model**  
-Predictive modeling using Scikit-Learn.
-
-🔹 **AI Space Environment Prediction Model**  
-Graduation project predicting ionospheric disturbances affecting GPS signals.
+### ✦ *Core Expertise*
+* **Business Intelligence** 📊 
+  * *Advanced Power BI dashboards & complex DAX logic.*
+* **Advanced Analytics** 🐍 
+  * *Insights extraction using Python & SQL Server.*
+* **AI & Generative AI** 🤖 
+  * *ML models & exploring LLM solutions.*
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Data Analytics  
-- Machine Learning Models  
-- Artificial Intelligence Applications  
+### ✦ *Professional Journey*
+* **Medical Rep Data Analyst** | *Advocure & Marvel Pharma Groups*
+* **Data Science & Generative AI Intern** | *DEPI (Digital Egypt Pioneers Initiative)*
+* **AI Intern** | *Huawei ICT Academy & NTI*
+* **Graduation Project** | *AI-based Space Environment Prediction Model*
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliaasaudi14&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaasaudi14&theme=tokyonight" />
+### 💻 *Technical Stack*
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-orange?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 *Connect With Me*
+<p align="left">
+<a href="https://linkedin.com/in/aliaa-saudi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aliaaahmed679@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aliaa-saudi/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
+---
 
-<a href="mailto:aliaaahmed679@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-</a>
+### 📊 *GitHub Statistics*
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaasaudi14&theme=nord&hide_border=true" width="400" />
 </p>
